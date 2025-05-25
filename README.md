@@ -44,10 +44,10 @@ Hi there! I’m **Shrikrishnan Balakrishnan**, a dedicated **Senior Software Eng
 
 ## 📫 Let’s Connect
 
-- **Website:** [shrikrishnan.github.io](https://shrikrishnan.github.io/ShrikrishnanBalakrishnan/)  
+- **Website:** [shrikrishnan.github.io](https://shrikrishnan.github.io/shrikrishnan.balakrishnan/)  
 - **GitHub:** [@Shrikrishnan](https://github.com/Shrikrishnan)  
 - **LinkedIn:** [Shrikrishnan Balakrishnan](https://linkedin.com/in/shrikrishnanbalakrishnan)  
-- **LeetCode:** [b_shrikrishnan](https://leetcode.com/b_shrikrishnan/)  
+- **LeetCode:** [b_shrikrishnan](https://leetcode.com/u/shrikrishnan_balakrishnan/)  
 - **Hackerrank:** [Shrikrishnan](https://www.hackerrank.com/shrikrishnan)  
 - **Email:** [b.shrikrishnan@gmail.com](mailto:b.shrikrishnan@gmail.com)
 
