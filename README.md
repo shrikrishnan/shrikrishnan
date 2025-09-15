@@ -10,7 +10,6 @@
 
 --- 
 
-
 ## 🚀 About Me
 
 Hi there! I’m **Shrikrishnan Balakrishnan**, a dedicated **Senior Software Engineer** specializing in building high-performance, scalable software systems. With expertise in **Java**, **Spring Boot**, and **microservices architecture**, I’m passionate about solving complex problems, optimizing workflows, and creating impactful solutions.
@@ -59,4 +58,3 @@ _"The only way to do great work is to love what you do."_ – Steve Jobs
 ---
 
 Made with ❤️ by **Shrikrishnan Balakrishnan**
-
