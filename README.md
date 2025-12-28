@@ -32,19 +32,13 @@ Hi there! I’m **Shrikrishnan Balakrishnan**, a dedicated **Senior Software Eng
 - RESTful APIs and microservices  
 - Database management with PostgreSQL and MySQL  
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shrikrishnan&theme=dark)](https://git.io/streak-stats)  
-![Shrikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrikrishnan&show_icons=true&theme=nightowl)
 
 ---
 
 ## 📫 Let’s Connect
 
-- **Website:** [shrikrishnan.github.io](https://shrikrishnan.github.io/shrikrishnan.balakrishnan/)  
-- **GitHub:** [@Shrikrishnan](https://github.com/Shrikrishnan)  
+- **Website:** [shrikrishnan.me](https://shrikrishnan.me/)  
+- **GitHub:** [@Shrikrishnan](https://github.com/shrikrishnan)  
 - **LinkedIn:** [Shrikrishnan Balakrishnan](https://linkedin.com/in/shrikrishnanbalakrishnan)  
 - **LeetCode:** [b_shrikrishnan](https://leetcode.com/u/shrikrishnan_balakrishnan/)  
 - **Hackerrank:** [Shrikrishnan](https://www.hackerrank.com/shrikrishnan)  
