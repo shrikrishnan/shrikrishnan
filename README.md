@@ -12,30 +12,44 @@
 
 ## 🚀 About Me
 
-Hi there! I’m **Shrikrishnan Balakrishnan**, a dedicated **Senior Software Engineer** specializing in building high-performance, scalable software systems. With expertise in **Java**, **Spring Boot**, and **microservices architecture**, I’m passionate about solving complex problems, optimizing workflows, and creating impactful solutions.
+Hi there! I'm **Shrikrishnan Balakrishnan**, a dedicated **Senior Software Development Engineer** specializing in building high-performance, scalable software systems. With expertise in **Java**, **Spring Boot**, **Quarkus**, and **microservices architecture**, I'm passionate about solving complex problems, optimizing workflows, and creating impactful solutions.
 
 ---
 
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
-- **Core:** Java, J2EE, SQL, Bash  
+- **Core:** Java, TypeScript, Bash/Shell, SQL  
 - **Other:** Data Structures & Algorithms, Object-Oriented Programming
 
-### ⚙️ Frameworks & Tools
-- **Frameworks:** Spring Boot, JPA, Mockito, Querydsl  
-- **Tools:** Git, Grafana, Eclipse, IntelliJ IDEA  
-- **Message Brokers:** Apache Kafka  
+### ⚙️ Frameworks & Libraries
+- **Frameworks:** Spring Boot, Quarkus, Spring Cloud, Hibernate, JPA, EclipseLink  
+- **Libraries:** Querydsl, Angular  
+- **Build & Testing:** JUnit, Mockito, Maven  
 
-### 🔍 Specialization
-- High-Level Design (HLD) & Low-Level Design (LLD)  
-- RESTful APIs and microservices  
-- Database management with PostgreSQL and MySQL  
+### ☁️ Cloud & DevOps
+- **Cloud:** AWS (EC2, RDS, S3)  
+- **Containerization & Orchestration:** Docker, Kubernetes  
+- **CI/CD:** GitHub Actions  
 
+### 🗄️ Databases
+- PostgreSQL, MySQL, DB2  
+
+### 📊 Message & Data Streaming
+- Apache Kafka  
+
+### 🔍 Monitoring & Security
+- Grafana, Prometheus, Trivy  
+
+### 🛠️ Version Control & Tools
+- Git, GitHub, Bitbucket, JIRA, Apache FreeMarker  
+
+### 🏗️ Architecture Patterns
+- Microservices, REST APIs, API Gateway, Service Discovery (Eureka)  
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 - **Website:** [shrikrishnan.me](https://shrikrishnan.me/)  
 - **GitHub:** [@Shrikrishnan](https://github.com/shrikrishnan)  
